@@ -1,4 +1,4 @@
-# dotnet-core-service - test
+# dotnet-core-service
 
 This project is a seed for creating [.NET Core][dotnet] service projects.
 
